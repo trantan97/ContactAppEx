@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">ContactAppEx</string>
+    <string name="app_name">List Contact</string>
+    <string name="access_deny">Không có quyền đọc danh bạ</string>
 </resources>
